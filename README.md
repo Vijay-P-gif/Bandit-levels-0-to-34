@@ -15,7 +15,7 @@ After login, listing  files with is shows a file named readme in the home direct
 Inside the file is the password for the next level  is ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 This level teaches basic Linux commands like ls and cat.
 ### Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-<img width="1535" height="1097" alt="Screenshot 2026-01-30 173111" src="https://github.com/user-attachments/assets/3cd001eb-1c7f-410b-9faa-09846cf106fd" />
+<img width="1402" height="626" alt="Screenshot 2026-01-30 172900" src="https://github.com/user-attachments/assets/776150fc-1763-49c6-90fd-aabfa7312b46" />
 
 
 ## Level 1 to 2
